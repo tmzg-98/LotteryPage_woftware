@@ -1,0 +1,21 @@
+﻿  Moc'ing LotteryPage.h...
+  Rcc'ing LotteryPage.qrc...
+  Uic'ing LotteryPage.ui...
+  RCC: Warning: No resources in 'D:\wja\LotteryPage\LotteryPage\LotteryPage.qrc'.
+  LotteryPage.cpp
+  main.cpp
+  moc_LotteryPage.cpp
+  qrc_LotteryPage.cpp
+d:\wja\lotterypage\lotterypage\lotterypage.cpp(12): warning C4005: “SPB”: 宏重定义
+  d:\wja\lotterypage\lotterypage\lotterypage.h(8): note: 参见“SPB”的前一个定义 (编译源文件 LotteryPage.cpp)
+d:\wja\lotterypage\lotterypage\lotterypage.cpp(15): warning C4005: “RDSLT”: 宏重定义
+  d:\wja\lotterypage\lotterypage\lotterypage.h(9): note: 参见“RDSLT”的前一个定义 (编译源文件 LotteryPage.cpp)
+d:\wja\lotterypage\lotterypage\lotterypage.cpp(19): warning C4005: “RDSLT2”: 宏重定义
+  d:\wja\lotterypage\lotterypage\lotterypage.h(12): note: 参见“RDSLT2”的前一个定义 (编译源文件 LotteryPage.cpp)
+d:\wja\lotterypage\lotterypage\lotterypage.cpp(22): warning C4005: “LKSLT”: 宏重定义
+  d:\wja\lotterypage\lotterypage\lotterypage.h(14): note: 参见“LKSLT”的前一个定义 (编译源文件 LotteryPage.cpp)
+d:\wja\lotterypage\lotterypage\lotterypage.cpp(25): warning C4005: “LKSLT2”: 宏重定义
+  d:\wja\lotterypage\lotterypage\lotterypage.h(16): note: 参见“LKSLT2”的前一个定义 (编译源文件 LotteryPage.cpp)
+d:\wja\lotterypage\lotterypage\lotterypage.cpp(28): warning C4005: “LKSLT3”: 宏重定义
+  d:\wja\lotterypage\lotterypage\lotterypage.h(18): note: 参见“LKSLT3”的前一个定义 (编译源文件 LotteryPage.cpp)
+  LotteryPage.vcxproj -> D:\wja\LotteryPage\x64\Release\LotteryPage.exe
